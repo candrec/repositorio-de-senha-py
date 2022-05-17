@@ -1,4 +1,4 @@
-#! usr/bin/python3
+#! /usr/bin/python3
 # pw.py - Um programa para repositório de senhas que não é seguro, apenas para estudo
 
 PASSWORDS = {'email':'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
